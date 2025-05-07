@@ -1,0 +1,24 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mario-olopez/weather-app.git"
+  },
+  "author": "Mario LC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mario-olopez/weather-app/issues"
+  },
+  "homepage": "https://github.com/mario-olopez/weather-app#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
